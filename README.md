@@ -1,3 +1,4 @@
+![Dashboard Screenshot](dashborad.png)
 # Retail Sales Dashboard
 
 A beginner Excel project analyzing sales data for a small retail shop using PivotTables, charts, and a consolidated dashboard.
